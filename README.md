@@ -2,7 +2,7 @@
 
 Using Boostrap for making it responsive Web Page
 
-#Screenshots
+# Screenshots
 
 ![alt text](https://github.com/Bharti-Parmar/Star-s-sunglasses-Web-page/blob/master/Screenshot%20(3615).png)
 ![alt text](https://github.com/Bharti-Parmar/Star-s-sunglasses-Web-page/blob/master/Screenshot%20(3616).png)
